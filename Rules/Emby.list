@@ -1,4 +1,31 @@
 # Emby：走 Emby 策略组
-DOMAIN-SUFFIX,lyezi.cc
+
+# 茶百道
+DOMAIN,emby.chapanda.site
+
+# 非越
+DOMAIN,media.emby.pro
+
+# 茶包
+DOMAIN,emby.tbag.qzz.io
+
+# 予初
+DOMAIN,emby.yusen.us.ci
+DOMAIN,embya.yusen.cyou
+DOMAIN,emby.yusen.cc.cd
+
+# 飞跃彩虹
+DOMAIN,fych.feiyue.lol
+
+# 叶子
+DOMAIN,wp.lyezi.cc
+DOMAIN,kuai1.lyezi.xyz
+DOMAIN,kuai2.lyezi.xyz
+DOMAIN,kuai3.lyezi.xyz
+
+# 垃圾影音
+DOMAIN,cf.xmsl.org
+
+# 原配置保留
 DOMAIN-SUFFIX,emby1.69yun69.com,extended-matching
 DOMAIN-SUFFIX,yhemby.top,extended-matching
