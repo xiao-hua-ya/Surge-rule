@@ -1,0 +1,2 @@
+# Emby Direct：直连优先。接入 Surge 时放在 Emby 规则集之前。
+# 尚未指定直连服务器。确认后添加 DOMAIN、DOMAIN-SUFFIX 或 IP-CIDR 条目。
