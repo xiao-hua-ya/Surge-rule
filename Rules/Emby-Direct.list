@@ -1,2 +1,16 @@
-# Emby Direct：直连优先。接入 Surge 时放在 Emby 规则集之前。
-# 尚未指定直连服务器。确认后添加 DOMAIN、DOMAIN-SUFFIX 或 IP-CIDR 条目。
+# Emby Direct：接入 Surge 时放在 Emby 规则集之前。
+
+# 茶百道
+DOMAIN,emby.teawaya.com
+
+# 茶包
+DOMAIN,tbagemby.tbag.dpdns.org
+
+# 予初
+DOMAIN,13.yusen.cyou
+DOMAIN,aaa.yusen6.ccwu.cc
+
+# 叶子
+DOMAIN,yp.lyezi.cc
+DOMAIN,cs.lyezi.xyz
+DOMAIN,csx.lyezi.xyz
