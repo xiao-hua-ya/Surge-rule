@@ -1,0 +1,4 @@
+# Emby：走 Emby 策略组
+DOMAIN-SUFFIX,lyezi.cc
+DOMAIN-SUFFIX,emby1.69yun69.com,extended-matching
+DOMAIN-SUFFIX,yhemby.top,extended-matching
